@@ -8,8 +8,8 @@ python-versions = ">=3.6"
 
 [metadata]
 lock-version = "1.1"
-python-versions = "^3.8"
-content-hash = "e2bd2a254e97a9ac0c16f55b0a5bf6b5947ea336e0fc6b03a232a374e2cfff35"
+python-versions = "^3.9"
+content-hash = "a9a4373160effa9051849836276e747087bbee2ccf157ba3ad5c4b6de9ce776b"
 
 [metadata.files]
 psycopg2-binary = [

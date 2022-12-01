@@ -22,6 +22,7 @@ try:
         cur: cursor
 
         cur.execute("create database test;")
+    print("finish")
 finally:
     if conn:
         conn.close()

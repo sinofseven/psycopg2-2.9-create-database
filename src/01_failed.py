@@ -18,5 +18,6 @@ try:
 
             cur.execute("create database test;")
         conn.commit()
+    print("finish")
 finally:
     conn.close()
